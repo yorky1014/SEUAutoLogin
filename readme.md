@@ -7,6 +7,7 @@
 #123
 #32421341234
 #123
+#222
 **本项目仅供学习使用**
 
 - 🌡**自动每日健康上报** [![daily report](https://github.com/luzy99/SEUAutoLogin/actions/workflows/daily-report.yml/badge.svg)](https://github.com/luzy99/SEUAutoLogin/actions/workflows/daily-report.yml)
